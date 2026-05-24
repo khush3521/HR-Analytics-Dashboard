@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-# HR Analytics Dashboard
+
 
 ## Project Overview
 This HR Analytics Dashboard was built using Power BI to analyze workforce trends, employee attrition, demographics, and hiring insights.
