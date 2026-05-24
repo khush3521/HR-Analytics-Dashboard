@@ -52,12 +52,13 @@ The dashboard helps HR teams understand employee distribution, attrition pattern
 ## Screenshots
 
 ### Executive Overview
+https://github.com/khush3521/HR-Analytics-Dashboard/blob/main/Excuitve%20Summury.png
 
 ### Attrition Analysis
-
+https://github.com/khush3521/HR-Analytics-Dashboard/blob/main/attriation%20ratio.png
 
 ### Workforce Demographics
-
+https://github.com/khush3521/HR-Analytics-Dashboard/blob/main/work%20flow.png
 
 ---
 
